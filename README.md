@@ -10,6 +10,7 @@ The weather web app, but aesthetic
 
 ## Live Demo
 
+- https://ashmangala.github.io/weather-web-app/
 
 ## How to remix
 1. Fork this repo
